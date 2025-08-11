@@ -72,7 +72,8 @@ Our initial hypothesis was that good family communication would simply weaken th
 
 At the macro level, a state's economic health correlates with children's well-being. We found a moderate, positive linear relationship between a state's poverty rate and its prevalence of child behavioral problems.
 
-<img width="1226" height="858" alt="image" src="https://github.com/user-attachments/assets/94be8309-c755-4d84-beb2-4de44554f809" />
+<img width="1235" height="858" alt="image" src="https://github.com/user-attachments/assets/06d18367-bdbd-4577-ba74-9513af7949fe" />
+
 
   - What this chart shows: This scatter plot visualizes the relationship between state-level economic conditions and children's mental health. Each point represents a U.S. state.
 

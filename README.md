@@ -100,7 +100,7 @@ This was a critical finding, underscoring the importance of statistical validati
 
 To explore the data and findings in more detail, please visit the interactive dashboard created in Tableau Public.
 
-## [--> View the Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/bohdan.sosnovskyi/viz/TheImpactofSocio-EconomicandFamilyFactorsonChildrensMentalHealthintheU_S_/Story1?publish=yes&showOnboarding=true)
+## [--> View the Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/bohdan.sosnovskyi/viz/TheImpactofSocio-EconomicandFamilyFactorsonChildrensMentalHealthintheU_S_/TheNationalPictureofChildrensWell-being?publish=yes)
 
 ### How to Reproduce
 
